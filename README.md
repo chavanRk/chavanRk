@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate React Native developer from Mumbai, India</h3>
 
-- 🔭 I’m currently working on **Campaigner App**
+- 🔭 I’m currently working on **Impact Guru - Campaigner App**
 
 - 📫 How to reach me **chavanrohit413@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
