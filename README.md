@@ -3,7 +3,13 @@
 
 - 🔭 I’m currently working on **Impact Guru - Campaigner App**
 
+- 👨‍💻 All of my projects are available at [https://react-resume-app.netlify.app/](https://react-resume-app.netlify.app/)
+
+- 💬 Ask me about **React, React Native**
+
 - 📫 How to reach me **chavanrohit413@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zRBuxsNtVuQ5c5097uX3ZOpyxCerRZc1/view](https://drive.google.com/file/d/1zRBuxsNtVuQ5c5097uX3ZOpyxCerRZc1/view)
 
 <p align="left">
 </p>
