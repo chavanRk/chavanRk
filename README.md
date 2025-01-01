@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate React Native developer from Mumbai, India</h3>
 
-- 🔭 I’m currently working on **Impact Guru - Campaigner App**
+- 🔭 I’m currently working on **Impact Guru - Campaigner App, IG-BD Outbound App**
 
 - 👨‍💻 All of my projects are available at [https://react-resume-app.netlify.app/](https://react-resume-app.netlify.app/)
 
