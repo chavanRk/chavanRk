@@ -1,18 +1,113 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate React Native developer from Mumbai, India</h3>
+<h1 align="center">Hi 👋, I'm Rohit Chavan</h1>
+<h3 align="center">Senior React Native Engineer • Expo • Android & iOS</h3>
 
-- 🔭 I’m currently working on **Impact Guru - Campaigner App, IG-BD Outbound App**
-
-- 👨‍💻 All of my projects are available at [https://react-resume-app.netlify.app/](https://react-resume-app.netlify.app/)
-
-- 💬 Ask me about **React, React Native**
-
-- 📫 How to reach me **chavanrohit413@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zRBuxsNtVuQ5c5097uX3ZOpyxCerRZc1/view](https://drive.google.com/file/d/1zRBuxsNtVuQ5c5097uX3ZOpyxCerRZc1/view)
-
-<p align="left">
+<p align="center">
+  <a href="https://github.com/chavanRk">
+    <img src="https://img.shields.io/github/followers/chavanRk?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-chavan-bab2201b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Chavan-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:chavanrohit413@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chavanrohit413%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="background-color:white; padding:5px; border-radius:6px;" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 🔥 **3+ years** building production-grade **React Native & Expo** apps  
+- 📱 Shipped apps used by **thousands of users** on Play Store & App Store  
+- ⚡ Strong in **performance optimization, complex state management, OTA updates**
+- 🚀 End-to-end ownership: development → CI/CD → store releases
+- 🇮🇳 Based in **Mumbai, India**
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" style="background:white;padding:4px;border-radius:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
+</p>
+
+---
+
+## 💼 Experience Snapshot
+
+### 🏥 OneCell.ai — Full Stack Developer  
+**Dec 2025 – Present**
+- Leading development of a **production Expo React Native app** for healthcare workflows
+- Integrated **GraphQL APIs**, optimized caching & error handling
+- Improved performance via render optimization & state tuning
+- Owned **Android & iOS releases**, OTA updates, rollback strategy
+
+---
+
+### 💰 ImpactGuru — Software Engineer  
+**Jun 2024 – Nov 2025**
+- Built & scaled React Native apps used by **thousands of users**
+- Integrated **Firebase Auth, Analytics & Crashlytics**
+- Reduced crash rate & improved app launch performance
+- Managed multiple **Play Store & App Store releases**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧬 OneCell.ai – DrG (Oncology Platform)
+- Expo-based React Native app for oncologists  
+- Diagnostics booking, reports, AI-powered chat  
+- High performance & strict data privacy
+
+### 📢 ImpactGuru – Campaigner App
+- Live production app on Android & iOS  
+- Campaign management, auth & API integrations
+
+### 🧑‍💼 ImpactGuru – BD Outbound (Internal)
+- Internal React Native app for onboarding workflows  
+- Complex Redux-driven multi-step flows
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chavanRk&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavanRk&theme=default" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanRk&layout=compact" height="150"/>
+</p>
+
+---
+
+## 📌 Pinned Repositories (Recommended)
+
+- 📱 **React Native Production App**
+- ⚡ **Expo Boilerplate**
+- 🔐 **Auth + Secure Storage Demo**
+- 🚀 **CI/CD with GitHub Actions + Fastlane**
+
+(📍 Pin these manually from GitHub → Customize profile)
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: **chavanrohit413@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/rohit-chavan-bab2201b4](https://www.linkedin.com/in/rohit-chavan-bab2201b4/)
+- 🌐 Portfolio: https://react-resume-app.netlify.app/
+
+---
+
+⭐ _I love building fast, reliable mobile apps and owning them end-to-end._
