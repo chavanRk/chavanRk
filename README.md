@@ -62,6 +62,15 @@
 
 ---
 
+### 🏥 YORE Care — Full Stack / React Native Developer  
+**From Scratch Project**
+- Designed and developed a complete React Native application from scratch  
+- Built reusable UI components and scalable API-driven workflows  
+- Focused on performance optimization, maintainability, and clean UX  
+- Owned the app lifecycle from initial setup to production readiness
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧬 OneCell.ai – DrG (Oncology Platform)
@@ -87,6 +96,7 @@
 ## 📫 Let’s Connect
 
 - 📧 Email: **chavanrohit413@gmail.com**
+- 📱 Mobile: **+91 8600842880**
 - 💼 LinkedIn: [linkedin.com/in/rohit-chavan-bab2201b4](https://www.linkedin.com/in/rohit-chavan-bab2201b4/)
 - 🌐 Portfolio: https://react-resume-app.netlify.app/
 
