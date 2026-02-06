@@ -96,7 +96,7 @@
 ## 📫 Let’s Connect
 
 - 📧 Email: **chavanrohit413@gmail.com**
-- 📱 Mobile: **+91 8600842880**
+- 📱 Mobile: [**+91 8600842880**](tel:+918600842880)
 - 💼 LinkedIn: [linkedin.com/in/rohit-chavan-bab2201b4](https://www.linkedin.com/in/rohit-chavan-bab2201b4/)
 - 🌐 Portfolio: https://react-resume-app.netlify.app/
 
