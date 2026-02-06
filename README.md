@@ -29,6 +29,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="48"/>
   <img src="https://reactnative.dev/img/header_logo.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
