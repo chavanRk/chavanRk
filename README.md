@@ -76,29 +76,10 @@
 - Internal React Native app for onboarding workflows  
 - Complex Redux-driven multi-step flows
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chavanRk&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavanRk&theme=default" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanRk&layout=compact" height="150"/>
-</p>
-
----
-
-## 📌 Pinned Repositories (Recommended)
-
-- 📱 **React Native Production App**
-- ⚡ **Expo Boilerplate**
-- 🔐 **Auth + Secure Storage Demo**
-- 🚀 **CI/CD with GitHub Actions + Fastlane**
-
-(📍 Pin these manually from GitHub → Customize profile)
+### 🏥 YORE Care
+- Designed and developed a complete React Native application from scratch  
+- Built reusable component architecture and API-driven business flows  
+- Optimized rendering and state updates for smooth performance
 
 ---
 
