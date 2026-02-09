@@ -95,10 +95,10 @@
 
 ## 📫 Let’s Connect
 
-- 📧 Email: **chavanrohit413@gmail.com**
-- 📱 Mobile: [**+91 8600842880**](tel:+918600842880)
-- 💼 LinkedIn: [linkedin.com/in/rohit-chavan-bab2201b4](https://www.linkedin.com/in/rohit-chavan-bab2201b4/)
-- 🌐 Portfolio: https://react-resume-app.netlify.app/
+- 📧 Email: <a href="mailto:chavanrohit413@gmail.com" target="_blank"><strong>chavanrohit413@gmail.com</strong></a>
+- 📱 Mobile: <a href="tel:+918600842880" target="_blank"><strong>+91 8600842880</strong></a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/rohit-chavan-bab2201b4/" target="_blank">linkedin.com/in/rohit-chavan-bab2201b4</a>
+- 🌐 Portfolio: <a href="https://react-resume-app.netlify.app/" target="_blank">react-resume-app.netlify.app</a>
 
 ---
 
