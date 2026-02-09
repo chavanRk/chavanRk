@@ -20,7 +20,7 @@
 - 🔥 **3+ years** building production-grade **React Native & Expo** apps  
 - 📱 Shipped apps used by **thousands of users** on Play Store & App Store  
 - ⚡ Strong in **performance optimization, complex state management, OTA updates**
-- 🚀 End-to-end ownership: development → CI/CD → store releases
+- 🚀 End-to-end ownership: development → store releases
 - 🇮🇳 Based in **Mumbai, India**
 
 ---
